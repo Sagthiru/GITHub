@@ -1,0 +1,7 @@
+This is my git part,
+
+GIT
+
+1.It is a source code management tool
+
+2.distributed version control system
